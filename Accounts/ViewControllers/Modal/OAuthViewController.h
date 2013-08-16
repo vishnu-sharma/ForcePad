@@ -30,7 +30,7 @@
 #import "OAuthCustomHostCreator.h"
 
 // keys for login
-#define OAuthClientID               @"Your OAuth Key"
+#define OAuthClientID               @"3MVG9Y6d_Btp4xp7TYnbVJx2W7iPeWGju0BzaRrm4HDO0q32dR3xmWgh4DCGWOhPZ2SF2RHFQIPME.KaoCQcm"
 #define OAuthConsumerSecret         @"Your OAuth secret"
 
 @interface OAuthViewController : UIViewController <UIWebViewDelegate, UIPopoverControllerDelegate, 

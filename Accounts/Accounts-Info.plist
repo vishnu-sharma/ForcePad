@@ -14,8 +14,8 @@
 		<string>Default-Portrait@2x~ipad.png</string>
 		<string>Default-Landscape~ipad.png</string>
 		<string>Default-Landscape@2x~ipad.png</string>
-		<string>appicon.png</string>
-		<string>appicon@2x.png</string>
+		<string>Icon.png</string>
+		<string>Icon@2x.png</string>
 	</array>
 	<key>CFBundleIcons</key>
 	<dict>
@@ -27,15 +27,15 @@
 				<string>Default-Portrait@2x~ipad.png</string>
 				<string>Default-Landscape~ipad.png</string>
 				<string>Default-Landscape@2x~ipad.png</string>
-				<string>appicon.png</string>
-				<string>appicon@2x.png</string>
+				<string>Icon.png</string>
+				<string>Icon@2x.png</string>
 			</array>
 			<key>UIPrerenderedIcon</key>
 			<true/>
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
-	<string>com.ForcePad.ForcePad</string>
+	<string>com.Metacube.GeoLogger</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
